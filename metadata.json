@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets Daily Monitor",
+  "description": "An elegant dashboard to monitor, analyze, and manage daily sheets tracking data with secure Google Workspace integrations and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
